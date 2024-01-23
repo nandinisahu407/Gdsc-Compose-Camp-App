@@ -26,8 +26,7 @@ git clone https://github.com/your-username/new-year-resolutions.git
 
 ```
 2. Open the project in Android Studio.<br>
-3. Set up Firebase for project and obtain the necessary configuration credentials.<br>
-4. Build and Run the App.
+3. Build and Run the App.
 
   
 
