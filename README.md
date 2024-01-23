@@ -16,7 +16,7 @@ This is a New Year Resolutions app built using Jetpack Compose for GDSC Android 
 ### 3. Edit and Delete Resolution
 Click on edit or Delete Icon to perform required operations and updates UI accordingly.
 
-
+<br>
 # Getting Started
 
 1. Clone the repository to your local machine:
